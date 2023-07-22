@@ -1,10 +1,10 @@
 
 # README
 
-
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache)
   
 ## Description
-README generator
+To be able to generate a professional README
   
 ## Table of Contents
 - [Installation](#installation)
@@ -14,23 +14,22 @@ README generator
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Installation
-NA
+## Installation <a name='installation'></a>
+use npm install
 
-## Usage
-Na
+## Usage <a name='usage'></a>
+use wisely
   
-## License
-This application is covered under the following licenses. For more details, see the corresponding license files:
-
-
-## Contributing
-NA
+## License <a name='license'></a>
+This application is covered under the Apache license. For more details, see the [License](https://opensource.org/licenses/Apache) file.
   
-## Tests
-NA
+## Contributing <a name='contributing'></a>
+fork repo and contribute
   
-## Questions
+## Tests <a name='test'></a>
+node index.js
+  
+## Questions <a name='questions'></a>
 For any questions, please feel free to reach out through the following channels:
-- Email: NA
-- Github: [NA](https://github.com/NA)
+- Email: luca-n@live.com
+- Github: [kalidnadere](https://github.com/kalidnadere)

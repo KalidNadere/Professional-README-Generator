@@ -1,4 +1,11 @@
 {
+  "name": "Professional-README-Generator",
+  "version": "1.0.0",
+  "description": "To be able to generate a high quality README when creating a project on Github.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KalidNadere/Professional-README-Generator.git"
+  },
   "dependencies": {
     "inquirer": "^8.2.4"
   }
