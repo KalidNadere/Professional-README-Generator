@@ -1,0 +1,5 @@
+# Ignore mode-modules directory
+node_modules/
+
+# Ignore .DS_Store files (macOS specific)
+.DS_Store
