@@ -47,7 +47,7 @@ This application is covered under the ${answers.license} license. For more detai
 ## Contributing <a name='contributing'></a>
 ${answers.contributing}
   
-## Tests <a name='test'></a>
+## Tests <a name='tests'></a>
 ${answers.tests}
   
 ## Questions <a name='questions'></a>

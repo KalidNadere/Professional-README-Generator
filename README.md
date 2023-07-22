@@ -1,10 +1,10 @@
 
-# README
+# Professional README Generator
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description
-To be able to generate a professional README
+To be able to generate a high quality professional README file
   
 ## Table of Contents
 - [Installation](#installation)
@@ -15,21 +15,21 @@ To be able to generate a professional README
 - [Questions](#questions)
 
 ## Installation <a name='installation'></a>
-use npm install
+Use npm install
 
 ## Usage <a name='usage'></a>
-use wisely
+ Use it with any Github project
   
 ## License <a name='license'></a>
-This application is covered under the Apache license. For more details, see the [License](https://opensource.org/licenses/Apache) file.
+This application is covered under the MIT license. For more details, see the [License](https://opensource.org/licenses/MIT) file.
   
 ## Contributing <a name='contributing'></a>
-fork repo and contribute
+Fork the repo, then contribute by coding
   
-## Tests <a name='test'></a>
-node index.js
+## Tests <a name='tests'></a>
+Use unit testing with Jest
   
 ## Questions <a name='questions'></a>
 For any questions, please feel free to reach out through the following channels:
 - Email: luca-n@live.com
-- Github: [kalidnadere](https://github.com/kalidnadere)
+- Github: [KalidNadere](https://github.com/KalidNadere)
