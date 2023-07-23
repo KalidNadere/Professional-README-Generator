@@ -99,7 +99,7 @@ inquirer
     {
       type: 'input',
       name: 'username',
-      message: 'Enter your Github username',
+      message: 'Enter your Github username:',
     },
     {
       type: 'input',

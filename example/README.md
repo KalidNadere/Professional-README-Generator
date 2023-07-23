@@ -18,7 +18,7 @@ To be able to generate a high quality README file
 Use npm install
 
 ## Usage <a name='usage'></a>
-Use with any open source Github project
+Use with open source Github project
   
 ## License <a name='license'></a>
 This application is covered under the MIT license. For more details, see the [License](https://opensource.org/licenses/MIT) file.
