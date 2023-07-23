@@ -7,20 +7,20 @@
 it's important to have a command-line application that generates a professional README file for a new project, based on user input. This README file is built using Node.js, and utilises the Inquirer library to prompt the user with questions about the project. The user provides information, e.g. project title, description, installation instructions, usage information, contribution guidelines, test intructions, chosen license, Github username and email address.
 
 The README generator includes the following main functions:
-- getLicenseBadgeURL(License)
-- generateREADME(answers)
-- Inquirer Prompts
-- File Writing
+- `getLicenseBadgeURL(License)`: This function takes the selected license as input and returns the URL for the corresponding license badge. It maps the license name to the correct badge URL, which will be displayed in the generated README
+- `generateREADME(answers)`: This function receives the user's answers fromt the Inquirer prompts and constructs the content of the README file using a template literal. It uses the information provided by the user to populate different sections of the README, such as the project title, description etc.
+- Inquirer Prompts: The application uses the Inquirer to prompt the user with series of questions about their project. The user's responses are then passed to the `generateREADME` function to create the README content.
+- File Writing: Once the README content is generated, the application writes it to a file named `README.md` in the current working directory using the `fs.writeFile` method.
 
 Benefits and Usefulness:
-- Time-Saving: It saves developers from manually writing the same content for each new project
-- Consistency: The README format & structure remain consistent across different projects
-- Professional Look: The generators ensures that essential information e.g. description, installation, usage etc, is included in the README.
-- Ease of Use: With simple prompts, it makes it user-friendly and accessible to developers
-- License Management: By providing license options & automatically adding license badges, it helps developers comply with open-source licensing requirements.
-- Documentation: Crucial for effective project documentation, it encourages developers to provide essential details about the project.
-- Consolidated Information: all the info about the project is centralised in one place, making easier for developers to find and access vital project details.
-- Community Engagement: A well maintained README attracts potential contributors and users by providing clear instructions on how to use, contribute and contact the project's maintainers.
+- Time-Saving
+- Consistency
+- Professional Look
+- Ease of Use
+- License Management
+- Documentation
+- Consolidated Information
+- Community Engagement
 
 This application has not been deployed, therefore, I have provided a [README Generator Demo](https://www.youtube.com/watch?v=l07XSCTBMcY&ab_channel=KalidNadere), that demonstrates its functionality:
 
